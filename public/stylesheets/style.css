@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(156, 217, 228);
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-links{
+    padding: 30px;
+}
+
+.header-links a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Index HTML */
+
+iframe {
+    width: 690px;
+    height: 445px;
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+
+/* Works HTML */
+
+.list-works{
+    display: flex;
+    padding: 30px;
+    padding-left: 80px;
+}
+
+
+/* About HTML*/
+
+.text-about{
+    display: flex;
+    width: 900px;
+    padding-left: 100px;
+}
